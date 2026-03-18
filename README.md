@@ -1,2 +1,2 @@
-# MQI-traffic
+# MQItraffic
 live update MQI traffic
